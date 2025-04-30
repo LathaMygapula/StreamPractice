@@ -1,4 +1,4 @@
-package com.example.StreamPractice.solution1;
+package com.example.StreamPractice.exercise1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

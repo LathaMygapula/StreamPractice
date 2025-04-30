@@ -1,4 +1,4 @@
-package com.example.StreamPractice.solution1;
+package com.example.StreamPractice.exercise1;
 
 import java.util.Comparator;
 import java.util.List;
